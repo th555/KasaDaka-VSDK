@@ -508,7 +508,7 @@
   "pk": 31,
   "fields": {
     "parent": 14,
-    "language": 2,
+    "language": 3,
     "audio": "4_fr.wav"
   }
 },
@@ -517,7 +517,7 @@
   "pk": 32,
   "fields": {
     "parent": 14,
-    "language": 3,
+    "language": 2,
     "audio": "4_en.wav"
   }
 },
