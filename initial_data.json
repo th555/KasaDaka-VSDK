@@ -374,7 +374,7 @@
   "fields": {
     "parent": 19,
     "language": 2,
-    "audio": "9_fr.wav"
+    "audio": "9_en.wav"
   }
 },
 {
@@ -383,7 +383,7 @@
   "fields": {
     "parent": 19,
     "language": 3,
-    "audio": "9_en.wav"
+    "audio": "9_fr.wav"
   }
 },
 {
