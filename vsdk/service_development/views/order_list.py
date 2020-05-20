@@ -60,15 +60,22 @@ def order_list(request, element_id, session_id):
         # This is the redirect URL to POST the chosen order
         # back to this method
         
-        # Make context
-        context = {
-            'order_audio_urls': audio_files,
-            'language': language,
-            'order_number_voice_label': order_list_element.order_number_label.get_voice_fragment_url(language),
-            'instructions_label': order_list_element.voice_label.get_voice_fragment_url(language),
-            'redirect_url_POST': redirect_url_POST
-        }
+        if(audio_files):
+            # Make context
+            context = {
+                'order_audio_urls': audio_files,
+                'language': language,
+                'order_number_voice_label': order_list_element.order_number_label.get_voice_fragment_url(language),
+                'instructions_label': order_list_element.voice_label.get_voice_fragment_url(language),
+                'redirect_url_POST': redirect_url_POST
+            }
+            return render(request, 'orderlist.xml', context, content_type='text/xml')
+        else:
+            context = {
+                'no_orders_label': order_list_element.no_orders_label.get_voice_fragment_url(language),
+                'redirect_url': order_list_get_redirect_url(order_list_element, session)
+            }
+            return render(request, 'emptyorderlist.xml', context, content_type='text/xml')
 
-        return render(request, 'orderlist.xml', context, content_type='text/xml')
 
 

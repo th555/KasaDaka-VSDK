@@ -1,0 +1,16 @@
+{% extends "base.xml" %}
+{#
+plays the list of orders and lets user choose one
+#}
+
+{% block content%}
+<form  id="deletedone">
+  <block>
+		<prompt>
+			<audio src="{{ no_orders_label }}"/>\
+    </prompt>
+    <goto next="{{redirect_url}}"/>
+  </block>
+</form>
+{% endblock %}
+

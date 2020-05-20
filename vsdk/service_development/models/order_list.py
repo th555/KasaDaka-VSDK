@@ -61,7 +61,15 @@ class OrderList(VoiceServiceElement):
         related_name='orderdeletelabel'
     )
 
-    
+    no_orders_label = models.ForeignKey(
+        VoiceLabel,
+        verbose_name = _('Order delete label'),
+        help_text = _('The label played when the orderlist is empty (i.e. "there are no orders")'),
+        on_delete = models.SET_NULL,
+        null = True,
+        blank = True,
+        related_name='noorderslabel'
+    )
 
     final_element = models.BooleanField(_('This element will terminate the call'),default = False)
     _redirect = models.ForeignKey(
