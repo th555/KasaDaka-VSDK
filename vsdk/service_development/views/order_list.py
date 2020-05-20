@@ -1,5 +1,6 @@
 from django.shortcuts import render, get_object_or_404, get_list_or_404, redirect
 from django.urls import reverse
+from django.conf import settings
 
 from ..models import *
 
@@ -16,7 +17,7 @@ def order_list(request, element_id, session_id):
     session = get_object_or_404(CallSession, pk=session_id)
 
     order_sessions = CallSession.objects.filter(order_placed=True)
-    audio_files = [str(get_list_or_404(SpokenUserInput.objects.filter(session=order_session))[0].audio) for order_session in order_sessions]
+    audio_files = [settings.MEDIA_URL + str(get_list_or_404(SpokenUserInput.objects.filter(session=order_session))[0].audio) for order_session in order_sessions]
 
     language = session.language
     order_list_element = get_object_or_404(OrderList, pk=element_id)
