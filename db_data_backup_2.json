@@ -1,0 +1,3846 @@
+[
+{
+  "model": "service_development.voicelabel",
+  "pk": 1,
+  "fields": {
+    "name": "Dutch language",
+    "description": "Nederlandse taal"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 2,
+  "fields": {
+    "name": "General error message",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 3,
+  "fields": {
+    "name": "This is the truth",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 4,
+  "fields": {
+    "name": "English language",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 5,
+  "fields": {
+    "name": "Thank you for using this service",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 6,
+  "fields": {
+    "name": "Wow, it must be a really boring guy!",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 7,
+  "fields": {
+    "name": "French language",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 8,
+  "fields": {
+    "name": "Please select your language",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 9,
+  "fields": {
+    "name": "Pre Choice Option",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 10,
+  "fields": {
+    "name": "Post Choice Option",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 11,
+  "fields": {
+    "name": "One",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 12,
+  "fields": {
+    "name": "Two",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 13,
+  "fields": {
+    "name": "Three",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 14,
+  "fields": {
+    "name": "Four",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 15,
+  "fields": {
+    "name": "Five",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 16,
+  "fields": {
+    "name": "Six",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 17,
+  "fields": {
+    "name": "Seven",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 18,
+  "fields": {
+    "name": "Eight",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 19,
+  "fields": {
+    "name": "Nine",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 20,
+  "fields": {
+    "name": "Zero",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 21,
+  "fields": {
+    "name": "Yes",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 22,
+  "fields": {
+    "name": "No",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 23,
+  "fields": {
+    "name": "Does the king like to drink beer?",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 25,
+  "fields": {
+    "name": "Please speak your message",
+    "description": ""
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 26,
+  "fields": {
+    "name": "welcome to malimilk menu",
+    "description": "Je hebt 'Nederlands' gekozen. Welkom bij Mali Milk, jouw platform om verse melk te kopen of verkopen. Als je melk wilt kopen, toets dan 1. Als je melk wilt verkopen, toets dan 2."
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 27,
+  "fields": {
+    "name": "empty",
+    "description": "silence"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 28,
+  "fields": {
+    "name": "welcome choose language",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 29,
+  "fields": {
+    "name": "buyer 1 liters",
+    "description": "Je hebt 'kopen' gekozen. Toets in hoe veel liter melk je wilt kopen, en sluit af met een hekje."
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 30,
+  "fields": {
+    "name": "buyer 2 price",
+    "description": "Toets de prijs in die je in totaal wilt betalen, en sluit af met een hekje."
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 31,
+  "fields": {
+    "name": "buyer 3 days",
+    "description": "Toets het aantal dagen in waarna je de melk uiterlijk wilt ontvangen, en sluit af met een hekje."
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 32,
+  "fields": {
+    "name": "buyer ask address",
+    "description": "Zeg nu hardop het adres waarop je de melk wil laten bezorgen."
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 33,
+  "fields": {
+    "name": "dummy part 1",
+    "description": "dummy confirmation before address repeat"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 34,
+  "fields": {
+    "name": "dummy 2 confirm",
+    "description": "dummy after address, and ask for confirm or repeat"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 35,
+  "fields": {
+    "name": "dummy 3 saved",
+    "description": "order has been saved in the db"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 36,
+  "fields": {
+    "name": "terminate",
+    "description": "bye"
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 37,
+  "fields": {
+    "name": "seller order",
+    "description": "Je hebt 'verkopen' gekozen. In welke volgorde wil je de bestellingen horen? Toets 1 voor grootste hoeveelheid eerst, toets 2 voor hoogste prijs eerst."
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 38,
+  "fields": {
+    "name": "seller sort amount",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 39,
+  "fields": {
+    "name": "seller sort price",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 40,
+  "fields": {
+    "name": "orderlist dummy",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 41,
+  "fields": {
+    "name": "seller confirm",
+    "description": null
+  }
+},
+{
+  "model": "service_development.voicelabel",
+  "pk": 42,
+  "fields": {
+    "name": "order removed",
+    "description": null
+  }
+},
+{
+  "model": "service_development.language",
+  "pk": 1,
+  "fields": {
+    "name": "Nederlands",
+    "code": "nl",
+    "voice_label": 1,
+    "error_message": 2,
+    "select_language": 28,
+    "pre_choice_option": 27,
+    "post_choice_option": 27,
+    "one": 11,
+    "two": 12,
+    "three": 13,
+    "four": 14,
+    "five": 15,
+    "six": 16,
+    "seven": 17,
+    "eight": 18,
+    "nine": 19,
+    "zero": 20
+  }
+},
+{
+  "model": "service_development.language",
+  "pk": 2,
+  "fields": {
+    "name": "English",
+    "code": "en",
+    "voice_label": 4,
+    "error_message": 2,
+    "select_language": 28,
+    "pre_choice_option": 27,
+    "post_choice_option": 27,
+    "one": 11,
+    "two": 12,
+    "three": 13,
+    "four": 14,
+    "five": 15,
+    "six": 16,
+    "seven": 17,
+    "eight": 18,
+    "nine": 19,
+    "zero": 20
+  }
+},
+{
+  "model": "service_development.language",
+  "pk": 3,
+  "fields": {
+    "name": "Francais",
+    "code": "fr",
+    "voice_label": 7,
+    "error_message": 2,
+    "select_language": 8,
+    "pre_choice_option": 9,
+    "post_choice_option": 10,
+    "one": 11,
+    "two": 12,
+    "three": 13,
+    "four": 14,
+    "five": 15,
+    "six": 16,
+    "seven": 17,
+    "eight": 18,
+    "nine": 19,
+    "zero": 20
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 1,
+  "fields": {
+    "parent": 6,
+    "language": 2,
+    "audio": "boring_guy_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 2,
+  "fields": {
+    "parent": 6,
+    "language": 1,
+    "audio": "boring_guy_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 6,
+  "fields": {
+    "parent": 22,
+    "language": 1,
+    "audio": "no_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 7,
+  "fields": {
+    "parent": 22,
+    "language": 2,
+    "audio": "no_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 8,
+  "fields": {
+    "parent": 22,
+    "language": 3,
+    "audio": "no_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 9,
+  "fields": {
+    "parent": 21,
+    "language": 1,
+    "audio": "yes_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 10,
+  "fields": {
+    "parent": 21,
+    "language": 2,
+    "audio": "yes_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 11,
+  "fields": {
+    "parent": 21,
+    "language": 3,
+    "audio": "yes_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 12,
+  "fields": {
+    "parent": 20,
+    "language": 1,
+    "audio": "0_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 13,
+  "fields": {
+    "parent": 20,
+    "language": 2,
+    "audio": "0_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 14,
+  "fields": {
+    "parent": 20,
+    "language": 3,
+    "audio": "0_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 15,
+  "fields": {
+    "parent": 19,
+    "language": 1,
+    "audio": "numbers_9.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 16,
+  "fields": {
+    "parent": 19,
+    "language": 2,
+    "audio": "numbers_9.mp3_j6DVohj.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 17,
+  "fields": {
+    "parent": 19,
+    "language": 3,
+    "audio": "9_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 18,
+  "fields": {
+    "parent": 18,
+    "language": 1,
+    "audio": "numbers_8.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 19,
+  "fields": {
+    "parent": 18,
+    "language": 2,
+    "audio": "numbers_8.mp3_ZsVsEEn.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 20,
+  "fields": {
+    "parent": 18,
+    "language": 3,
+    "audio": "8_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 21,
+  "fields": {
+    "parent": 17,
+    "language": 1,
+    "audio": "numbers_7.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 22,
+  "fields": {
+    "parent": 17,
+    "language": 2,
+    "audio": "numbers_7.mp3_5NGf4Ql.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 23,
+  "fields": {
+    "parent": 17,
+    "language": 3,
+    "audio": "7_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 24,
+  "fields": {
+    "parent": 16,
+    "language": 1,
+    "audio": "numbers_6.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 25,
+  "fields": {
+    "parent": 16,
+    "language": 2,
+    "audio": "numbers_6.mp3_5vQHgrP.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 26,
+  "fields": {
+    "parent": 16,
+    "language": 3,
+    "audio": "6_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 27,
+  "fields": {
+    "parent": 15,
+    "language": 1,
+    "audio": "numbers_5.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 28,
+  "fields": {
+    "parent": 15,
+    "language": 2,
+    "audio": "numbers_5.mp3_OOiryVz.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 29,
+  "fields": {
+    "parent": 15,
+    "language": 3,
+    "audio": "5_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 30,
+  "fields": {
+    "parent": 14,
+    "language": 1,
+    "audio": "numbers_4.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 31,
+  "fields": {
+    "parent": 14,
+    "language": 3,
+    "audio": "4_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 32,
+  "fields": {
+    "parent": 14,
+    "language": 2,
+    "audio": "numbers_4.mp3_axizMvj.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 33,
+  "fields": {
+    "parent": 13,
+    "language": 1,
+    "audio": "numbers_3.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 34,
+  "fields": {
+    "parent": 13,
+    "language": 2,
+    "audio": "numbers_3.mp3_ZiTcKax.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 35,
+  "fields": {
+    "parent": 13,
+    "language": 3,
+    "audio": "3_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 36,
+  "fields": {
+    "parent": 12,
+    "language": 1,
+    "audio": "numbers_2.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 37,
+  "fields": {
+    "parent": 12,
+    "language": 2,
+    "audio": "numbers_2.mp3_clHge4e.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 38,
+  "fields": {
+    "parent": 12,
+    "language": 3,
+    "audio": "2_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 39,
+  "fields": {
+    "parent": 11,
+    "language": 1,
+    "audio": "numbers_1.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 40,
+  "fields": {
+    "parent": 11,
+    "language": 2,
+    "audio": "numbers_1.mp3_3M8PzqU.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 41,
+  "fields": {
+    "parent": 11,
+    "language": 3,
+    "audio": "1_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 42,
+  "fields": {
+    "parent": 10,
+    "language": 1,
+    "audio": "post_choice_option_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 43,
+  "fields": {
+    "parent": 10,
+    "language": 2,
+    "audio": "post_choice_option_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 44,
+  "fields": {
+    "parent": 10,
+    "language": 3,
+    "audio": "post_choice_option_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 45,
+  "fields": {
+    "parent": 9,
+    "language": 1,
+    "audio": "pre_choice_option_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 46,
+  "fields": {
+    "parent": 9,
+    "language": 2,
+    "audio": "pre_choice_option_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 47,
+  "fields": {
+    "parent": 9,
+    "language": 3,
+    "audio": "pre_choice_option_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 48,
+  "fields": {
+    "parent": 8,
+    "language": 1,
+    "audio": "select_language_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 49,
+  "fields": {
+    "parent": 8,
+    "language": 2,
+    "audio": "select_language_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 50,
+  "fields": {
+    "parent": 8,
+    "language": 3,
+    "audio": "select_language_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 51,
+  "fields": {
+    "parent": 7,
+    "language": 1,
+    "audio": "french_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 52,
+  "fields": {
+    "parent": 7,
+    "language": 2,
+    "audio": "french_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 53,
+  "fields": {
+    "parent": 7,
+    "language": 3,
+    "audio": "french_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 54,
+  "fields": {
+    "parent": 6,
+    "language": 3,
+    "audio": "boring_guy_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 55,
+  "fields": {
+    "parent": 5,
+    "language": 1,
+    "audio": "thank_you_for_using_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 56,
+  "fields": {
+    "parent": 5,
+    "language": 2,
+    "audio": "thank_you_for_using_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 57,
+  "fields": {
+    "parent": 5,
+    "language": 3,
+    "audio": "thank_you_for_using_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 58,
+  "fields": {
+    "parent": 4,
+    "language": 1,
+    "audio": "english_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 59,
+  "fields": {
+    "parent": 4,
+    "language": 2,
+    "audio": "english.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 60,
+  "fields": {
+    "parent": 4,
+    "language": 3,
+    "audio": "english_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 61,
+  "fields": {
+    "parent": 3,
+    "language": 1,
+    "audio": "truth_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 62,
+  "fields": {
+    "parent": 3,
+    "language": 2,
+    "audio": "truth_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 63,
+  "fields": {
+    "parent": 3,
+    "language": 3,
+    "audio": "truth_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 64,
+  "fields": {
+    "parent": 2,
+    "language": 1,
+    "audio": "error_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 65,
+  "fields": {
+    "parent": 2,
+    "language": 2,
+    "audio": "error_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 66,
+  "fields": {
+    "parent": 2,
+    "language": 3,
+    "audio": "error_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 67,
+  "fields": {
+    "parent": 1,
+    "language": 1,
+    "audio": "nederlands.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 68,
+  "fields": {
+    "parent": 1,
+    "language": 2,
+    "audio": "dutch_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 69,
+  "fields": {
+    "parent": 1,
+    "language": 3,
+    "audio": "dutch_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 70,
+  "fields": {
+    "parent": 23,
+    "language": 1,
+    "audio": "king_question_nl.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 71,
+  "fields": {
+    "parent": 23,
+    "language": 2,
+    "audio": "king_question_en.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 72,
+  "fields": {
+    "parent": 23,
+    "language": 3,
+    "audio": "king_question_fr.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 74,
+  "fields": {
+    "parent": 25,
+    "language": 3,
+    "audio": "speakYourMessage.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 75,
+  "fields": {
+    "parent": 26,
+    "language": 2,
+    "audio": "2_menu.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 76,
+  "fields": {
+    "parent": 26,
+    "language": 1,
+    "audio": "2_menu.mp3_jzhRcFM.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 77,
+  "fields": {
+    "parent": 27,
+    "language": 1,
+    "audio": "empty.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 78,
+  "fields": {
+    "parent": 27,
+    "language": 2,
+    "audio": "empty_ePN1UAj.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 79,
+  "fields": {
+    "parent": 28,
+    "language": 2,
+    "audio": "1_start.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 80,
+  "fields": {
+    "parent": 28,
+    "language": 1,
+    "audio": "1_start.mp3_MxpSjs0.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 81,
+  "fields": {
+    "parent": 29,
+    "language": 1,
+    "audio": "3_buyer_liters.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 82,
+  "fields": {
+    "parent": 29,
+    "language": 2,
+    "audio": "3_buyer_liters.mp3_BYCAhUD.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 83,
+  "fields": {
+    "parent": 30,
+    "language": 2,
+    "audio": "4_buyer_price.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 84,
+  "fields": {
+    "parent": 30,
+    "language": 1,
+    "audio": "4_buyer_price.mp3_o9ZQ9hM.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 85,
+  "fields": {
+    "parent": 31,
+    "language": 2,
+    "audio": "5_buyer_days.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 86,
+  "fields": {
+    "parent": 31,
+    "language": 1,
+    "audio": "5_buyer_days.mp3_r3iRbLi.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 87,
+  "fields": {
+    "parent": 32,
+    "language": 2,
+    "audio": "6_buyer_address.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 88,
+  "fields": {
+    "parent": 32,
+    "language": 1,
+    "audio": "6_buyer_address.mp3_ee6bMXB.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 89,
+  "fields": {
+    "parent": 33,
+    "language": 2,
+    "audio": "dummy_1_english.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 90,
+  "fields": {
+    "parent": 33,
+    "language": 1,
+    "audio": "dummy_1_dutch.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 91,
+  "fields": {
+    "parent": 34,
+    "language": 2,
+    "audio": "dummy_2_confirm_english.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 92,
+  "fields": {
+    "parent": 34,
+    "language": 1,
+    "audio": "dummy_2_confirm_dutch.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 93,
+  "fields": {
+    "parent": 35,
+    "language": 2,
+    "audio": "dummy_3_saved_english.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 94,
+  "fields": {
+    "parent": 35,
+    "language": 1,
+    "audio": "dummy_3_saved_dutch.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 95,
+  "fields": {
+    "parent": 36,
+    "language": 1,
+    "audio": "terminate_call.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 96,
+  "fields": {
+    "parent": 36,
+    "language": 2,
+    "audio": "terminate_call.mp3_F4X9mqK.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 97,
+  "fields": {
+    "parent": 37,
+    "language": 2,
+    "audio": "3_seller_order.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 98,
+  "fields": {
+    "parent": 37,
+    "language": 1,
+    "audio": "3_seller_order.mp3_ZG29nVj.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 99,
+  "fields": {
+    "parent": 38,
+    "language": 2,
+    "audio": "4_seller_sort_amount.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 100,
+  "fields": {
+    "parent": 38,
+    "language": 1,
+    "audio": "4_seller_sort_amount.mp3_5HHTKod.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 101,
+  "fields": {
+    "parent": 39,
+    "language": 1,
+    "audio": "4_seller_sort_price.mp3.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 102,
+  "fields": {
+    "parent": 39,
+    "language": 2,
+    "audio": "4_seller_sort_price.mp3_7urCv0F.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 103,
+  "fields": {
+    "parent": 40,
+    "language": 2,
+    "audio": "dummy_order_list_english.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 104,
+  "fields": {
+    "parent": 40,
+    "language": 1,
+    "audio": "dummy_order_list_dutch.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 105,
+  "fields": {
+    "parent": 41,
+    "language": 1,
+    "audio": "seller_confirm_dutch.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 106,
+  "fields": {
+    "parent": 41,
+    "language": 2,
+    "audio": "seller_confirm_english_9RFjzVG.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 107,
+  "fields": {
+    "parent": 42,
+    "language": 2,
+    "audio": "seller_removed_english.wav"
+  }
+},
+{
+  "model": "service_development.voicefragment",
+  "pk": 108,
+  "fields": {
+    "parent": 42,
+    "language": 1,
+    "audio": "seller_removed_dutch.wav"
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 2,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:30:23.792Z",
+    "modification_date": "2018-02-16T16:42:26.402Z",
+    "name": "Does the king like to drink beer?",
+    "description": "",
+    "voice_label": 23
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 3,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:32:07.853Z",
+    "modification_date": "2018-01-25T14:35:48.977Z",
+    "name": "Yes",
+    "description": "King <3's BEER",
+    "voice_label": 21
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 4,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:32:07.854Z",
+    "modification_date": "2018-02-16T16:42:26.405Z",
+    "name": "No",
+    "description": "",
+    "voice_label": 22
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 5,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T19:49:50.055Z",
+    "modification_date": "2020-05-01T12:44:53.148Z",
+    "name": "This is the truth",
+    "description": "",
+    "voice_label": 3
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 6,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T21:11:06.805Z",
+    "modification_date": "2017-04-23T21:33:29.853Z",
+    "name": "Thank you for using this service",
+    "description": "",
+    "voice_label": 5
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 7,
+  "fields": {
+    "service": 1,
+    "creation_date": "2017-04-23T21:36:55.756Z",
+    "modification_date": "2017-04-23T21:36:55.756Z",
+    "name": "King is boring",
+    "description": "",
+    "voice_label": 6
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 8,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-27T08:59:17.815Z",
+    "modification_date": "2020-05-01T15:22:06.694Z",
+    "name": "Welcome",
+    "description": "Welcome to mali milk use case. Press 1 if you are a customer and press 2 if you are a distributor",
+    "voice_label": 26
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 11,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-27T09:03:30.977Z",
+    "modification_date": "2020-05-01T15:22:06.698Z",
+    "name": "customer",
+    "description": "1",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 12,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-27T09:03:30.981Z",
+    "modification_date": "2020-05-01T15:22:06.701Z",
+    "name": "distributor",
+    "description": "2",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 14,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-04-27T09:07:20.588Z",
+    "modification_date": "2020-05-01T14:58:33.358Z",
+    "name": "record buyer address",
+    "description": "Zeg nu hardop het adres waarop je de melk wil laten bezorgen",
+    "voice_label": 32
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 15,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T12:07:38.264Z",
+    "modification_date": "2020-05-01T12:09:20.660Z",
+    "name": "buyer 1 liters",
+    "description": "Je hebt 'kopen' gekozen. Toets in hoe veel liter melk je wilt kopen, en sluit af met een hekje.",
+    "voice_label": 29
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 16,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T12:09:14.800Z",
+    "modification_date": "2020-05-01T12:11:17.821Z",
+    "name": "buyer 2 price",
+    "description": "Toets de prijs in die je in totaal wilt betalen, en sluit af met een hekje.",
+    "voice_label": 30
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 17,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T12:11:10.391Z",
+    "modification_date": "2020-05-01T12:45:26.629Z",
+    "name": "buyer 3 days",
+    "description": "Toets het aantal dagen in waarna je de melk uiterlijk wilt ontvangen, en sluit af met een hekje.",
+    "voice_label": 31
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 18,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T12:44:40.031Z",
+    "modification_date": "2020-05-01T12:44:40.031Z",
+    "name": "terminate",
+    "description": "thanks, bye",
+    "voice_label": 36
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 19,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:05:11.222Z",
+    "modification_date": "2020-05-01T13:09:11Z",
+    "name": "Seller choose sorting",
+    "description": "Je hebt 'verkopen' gekozen. In welke volgorde wil je de bestellingen horen? Toets 1 voor grootste hoeveelheid eerst, toets 2 voor hoogste prijs eerst.",
+    "voice_label": 37
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 20,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:05:11.223Z",
+    "modification_date": "2020-05-01T13:09:11.005Z",
+    "name": "amount",
+    "description": "",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 21,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:05:11.224Z",
+    "modification_date": "2020-05-01T13:09:11.008Z",
+    "name": "price",
+    "description": "",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 22,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:06:43.457Z",
+    "modification_date": "2020-05-01T13:19:19.802Z",
+    "name": "chose amount sorting",
+    "description": "Je hebt ervoor gekozen om te sorteren op grootte.",
+    "voice_label": 38
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 23,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:08:00.524Z",
+    "modification_date": "2020-05-01T13:19:15.035Z",
+    "name": "chose price sorting",
+    "description": "",
+    "voice_label": 39
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 24,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:19:02.461Z",
+    "modification_date": "2020-05-01T13:32:49.954Z",
+    "name": "dummy order list",
+    "description": "order 1: 15 liter voor 3 dollar",
+    "voice_label": 40
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 25,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:25:51.543Z",
+    "modification_date": "2020-05-01T13:33:32.057Z",
+    "name": "seller confirm chosen order",
+    "description": "Je gekozen bestelling is als volgt: ... Toets 1 als dit juist is, toets 2 om een andere bestelling uit te zoeken.",
+    "voice_label": 41
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 26,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:25:51.547Z",
+    "modification_date": "2020-05-01T13:33:32.062Z",
+    "name": "correct",
+    "description": "",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 27,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:25:51.549Z",
+    "modification_date": "2020-05-01T13:25:51.549Z",
+    "name": "retry",
+    "description": "",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 28,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T13:32:15.732Z",
+    "modification_date": "2020-05-01T13:32:15.732Z",
+    "name": "seller end",
+    "description": "order x has been removed from the db",
+    "voice_label": 42
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 29,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T15:03:04.941Z",
+    "modification_date": "2020-05-01T15:05:45.597Z",
+    "name": "(choice) buyer 1 liters",
+    "description": "Je hebt 'kopen' gekozen. Toets in hoe veel liter melk je wilt kopen, en sluit af met een hekje.",
+    "voice_label": 29
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 30,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T15:03:04.944Z",
+    "modification_date": "2020-05-01T15:05:45.601Z",
+    "name": "dummy",
+    "description": "1",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 31,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T15:03:57.447Z",
+    "modification_date": "2020-05-01T15:06:35.381Z",
+    "name": "(choice) buyer 2 price",
+    "description": "Toets de prijs in die je in totaal wilt betalen, en sluit af met een hekje.",
+    "voice_label": 30
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 32,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T15:03:57.450Z",
+    "modification_date": "2020-05-01T15:06:35.386Z",
+    "name": "dummy",
+    "description": "1",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 33,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T15:04:52.563Z",
+    "modification_date": "2020-05-01T15:06:12.517Z",
+    "name": "(choice) buyer 3 days",
+    "description": "Toets het aantal dagen in waarna je de melk uiterlijk wilt ontvangen, en sluit af met een hekje.",
+    "voice_label": 31
+  }
+},
+{
+  "model": "service_development.voiceservicesubelement",
+  "pk": 34,
+  "fields": {
+    "service": 2,
+    "creation_date": "2020-05-01T15:04:52.566Z",
+    "modification_date": "2020-05-01T15:06:12.523Z",
+    "name": "dummy",
+    "description": "1",
+    "voice_label": 27
+  }
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 2,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 5,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 6,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 7,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 8,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 14,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 15,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 16,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 17,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 18,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 19,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 22,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 23,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 24,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 25,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 28,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 29,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 31,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceserviceelement",
+  "pk": 33,
+  "fields": {}
+},
+{
+  "model": "service_development.voiceservice",
+  "pk": 1,
+  "fields": {
+    "name": "King's truth checker",
+    "description": "Checks the user's knowledge about the king of the Netherlands",
+    "creation_date": "2017-04-23T19:23:52.392Z",
+    "modification_date": "2020-04-30T22:00:32.014Z",
+    "active": false,
+    "_start_element": 2,
+    "registration": "preferred",
+    "registration_language": true,
+    "registration_name": false,
+    "supported_languages": [
+      1,
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "service_development.voiceservice",
+  "pk": 2,
+  "fields": {
+    "name": "Mali Milk",
+    "description": "The Mali Milk service",
+    "creation_date": "2020-04-27T08:58:16.879Z",
+    "modification_date": "2020-05-01T13:33:56.416Z",
+    "active": true,
+    "_start_element": 8,
+    "registration": "preferred",
+    "registration_language": false,
+    "registration_name": false,
+    "supported_languages": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 1,
+  "fields": {
+    "caller_id": "456",
+    "first_name": "Henk",
+    "last_name": "Ernia",
+    "creation_date": "2018-02-02T11:10:27.670Z",
+    "modification_date": "2018-02-12T14:44:24.019Z",
+    "language": 1,
+    "service": 1
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 2,
+  "fields": {
+    "caller_id": "0622903872",
+    "first_name": "",
+    "last_name": "",
+    "creation_date": "2020-05-01T14:37:15.522Z",
+    "modification_date": "2020-05-01T14:37:15.522Z",
+    "language": null,
+    "service": 2
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 3,
+  "fields": {
+    "caller_id": "0641838622",
+    "first_name": "",
+    "last_name": "",
+    "creation_date": "2020-05-01T14:53:20.349Z",
+    "modification_date": "2020-05-01T14:53:20.349Z",
+    "language": null,
+    "service": 2
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 4,
+  "fields": {
+    "caller_id": "0611153096",
+    "first_name": "",
+    "last_name": "",
+    "creation_date": "2020-05-01T15:20:46.598Z",
+    "modification_date": "2020-05-01T15:20:46.598Z",
+    "language": null,
+    "service": 2
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 5,
+  "fields": {
+    "caller_id": "0651809898",
+    "first_name": "",
+    "last_name": "",
+    "creation_date": "2020-05-01T15:26:32.949Z",
+    "modification_date": "2020-05-01T15:26:32.949Z",
+    "language": null,
+    "service": 2
+  }
+},
+{
+  "model": "service_development.kasadakauser",
+  "pk": 38,
+  "fields": {
+    "caller_id": "00233244944304",
+    "first_name": "",
+    "last_name": "",
+    "creation_date": "2020-05-05T23:00:39.486Z",
+    "modification_date": "2020-05-05T23:00:39.486Z",
+    "language": null,
+    "service": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 1,
+  "fields": {
+    "start": "2020-04-24T22:04:55.476Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 2,
+  "fields": {
+    "start": "2020-04-24T22:06:00.998Z",
+    "end": null,
+    "user": null,
+    "caller_id": "1234",
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 3,
+  "fields": {
+    "start": "2020-04-24T22:23:15.672Z",
+    "end": null,
+    "user": null,
+    "caller_id": "1234",
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 4,
+  "fields": {
+    "start": "2020-04-24T23:05:30.580Z",
+    "end": null,
+    "user": null,
+    "caller_id": "1234",
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 5,
+  "fields": {
+    "start": "2020-04-24T23:05:41.799Z",
+    "end": null,
+    "user": null,
+    "caller_id": "1234",
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 6,
+  "fields": {
+    "start": "2020-04-24T23:20:17.377Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 7,
+  "fields": {
+    "start": "2020-04-24T23:21:35.242Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 8,
+  "fields": {
+    "start": "2020-04-24T23:21:49.616Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": null,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 9,
+  "fields": {
+    "start": "2020-05-01T12:47:12.901Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 10,
+  "fields": {
+    "start": "2020-05-01T14:20:27.179Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 11,
+  "fields": {
+    "start": "2020-05-01T14:22:57.309Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 12,
+  "fields": {
+    "start": "2020-05-01T14:28:55.030Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 13,
+  "fields": {
+    "start": "2020-05-01T14:29:00.261Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 14,
+  "fields": {
+    "start": "2020-05-01T14:37:15.422Z",
+    "end": "2020-05-01T14:38:03.454Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 15,
+  "fields": {
+    "start": "2020-05-01T14:39:06.406Z",
+    "end": "2020-05-01T14:39:51.658Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 16,
+  "fields": {
+    "start": "2020-05-01T14:40:22.401Z",
+    "end": "2020-05-01T14:40:36.446Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 17,
+  "fields": {
+    "start": "2020-05-01T14:41:57.133Z",
+    "end": "2020-05-01T14:43:04.350Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 18,
+  "fields": {
+    "start": "2020-05-01T14:45:25.521Z",
+    "end": null,
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 19,
+  "fields": {
+    "start": "2020-05-01T14:47:05.027Z",
+    "end": null,
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 20,
+  "fields": {
+    "start": "2020-05-01T14:48:49.094Z",
+    "end": "2020-05-01T14:49:22.478Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 21,
+  "fields": {
+    "start": "2020-05-01T14:52:46.093Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 22,
+  "fields": {
+    "start": "2020-05-01T14:53:20.274Z",
+    "end": "2020-05-01T14:53:51.883Z",
+    "user": 3,
+    "caller_id": "0641838622",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 23,
+  "fields": {
+    "start": "2020-05-01T14:54:11.260Z",
+    "end": "2020-05-01T14:54:37.085Z",
+    "user": 3,
+    "caller_id": "0641838622",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 24,
+  "fields": {
+    "start": "2020-05-01T14:54:52.716Z",
+    "end": "2020-05-01T14:55:24.604Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 25,
+  "fields": {
+    "start": "2020-05-01T14:56:57.167Z",
+    "end": "2020-05-01T14:57:37.487Z",
+    "user": 3,
+    "caller_id": "0641838622",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 26,
+  "fields": {
+    "start": "2020-05-01T14:59:28.993Z",
+    "end": "2020-05-01T15:00:35.587Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 27,
+  "fields": {
+    "start": "2020-05-01T15:01:00.944Z",
+    "end": "2020-05-01T15:02:00.049Z",
+    "user": 3,
+    "caller_id": "0641838622",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 28,
+  "fields": {
+    "start": "2020-05-01T15:07:08.932Z",
+    "end": "2020-05-01T15:07:24.469Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 29,
+  "fields": {
+    "start": "2020-05-01T15:17:34.617Z",
+    "end": "2020-05-01T15:17:49.798Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 30,
+  "fields": {
+    "start": "2020-05-01T15:18:15.893Z",
+    "end": "2020-05-01T15:19:00.042Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 31,
+  "fields": {
+    "start": "2020-05-01T15:19:44.865Z",
+    "end": "2020-05-01T15:20:04.414Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 32,
+  "fields": {
+    "start": "2020-05-01T15:20:46.554Z",
+    "end": "2020-05-01T15:20:52.787Z",
+    "user": 4,
+    "caller_id": "0611153096",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 33,
+  "fields": {
+    "start": "2020-05-01T15:21:10.493Z",
+    "end": "2020-05-01T15:21:26.311Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 34,
+  "fields": {
+    "start": "2020-05-01T15:21:44.940Z",
+    "end": "2020-05-01T15:22:17.052Z",
+    "user": 4,
+    "caller_id": "0611153096",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 35,
+  "fields": {
+    "start": "2020-05-01T15:22:41.530Z",
+    "end": "2020-05-01T15:22:54.257Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 36,
+  "fields": {
+    "start": "2020-05-01T15:23:14.166Z",
+    "end": "2020-05-01T15:23:30.196Z",
+    "user": 2,
+    "caller_id": "0622903872",
+    "service": 2,
+    "_language": 1
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 37,
+  "fields": {
+    "start": "2020-05-01T15:26:32.872Z",
+    "end": "2020-05-01T15:27:25.144Z",
+    "user": 5,
+    "caller_id": "0651809898",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 70,
+  "fields": {
+    "start": "2020-05-05T23:00:18.412Z",
+    "end": null,
+    "user": null,
+    "caller_id": "00233244944304",
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 71,
+  "fields": {
+    "start": "2020-05-05T23:00:39.385Z",
+    "end": "2020-05-05T23:02:26.068Z",
+    "user": 38,
+    "caller_id": "00233244944304",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 72,
+  "fields": {
+    "start": "2020-05-05T23:04:11.374Z",
+    "end": "2020-05-05T23:04:45.807Z",
+    "user": 38,
+    "caller_id": "00233244944304",
+    "service": 2,
+    "_language": 2
+  }
+},
+{
+  "model": "service_development.callsession",
+  "pk": 73,
+  "fields": {
+    "start": "2020-05-05T23:05:12.672Z",
+    "end": null,
+    "user": null,
+    "caller_id": null,
+    "service": 2,
+    "_language": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 1,
+  "fields": {
+    "time": "2020-05-01T14:37:15.541Z",
+    "session": 14,
+    "_visited_element": null,
+    "description": "Registered as user: 0622903872"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 2,
+  "fields": {
+    "time": "2020-05-01T14:37:39.117Z",
+    "session": 14,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 3,
+  "fields": {
+    "time": "2020-05-01T14:37:39.242Z",
+    "session": 14,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 4,
+  "fields": {
+    "time": "2020-05-01T14:37:53.312Z",
+    "session": 14,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 5,
+  "fields": {
+    "time": "2020-05-01T14:37:53.705Z",
+    "session": 14,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 6,
+  "fields": {
+    "time": "2020-05-01T14:37:59.367Z",
+    "session": 14,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 7,
+  "fields": {
+    "time": "2020-05-01T14:38:03.458Z",
+    "session": 14,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 8,
+  "fields": {
+    "time": "2020-05-01T14:39:21.305Z",
+    "session": 15,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 9,
+  "fields": {
+    "time": "2020-05-01T14:39:21.433Z",
+    "session": 15,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 10,
+  "fields": {
+    "time": "2020-05-01T14:39:38.845Z",
+    "session": 15,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 11,
+  "fields": {
+    "time": "2020-05-01T14:39:39.424Z",
+    "session": 15,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 12,
+  "fields": {
+    "time": "2020-05-01T14:39:47.414Z",
+    "session": 15,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 13,
+  "fields": {
+    "time": "2020-05-01T14:39:51.661Z",
+    "session": 15,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 14,
+  "fields": {
+    "time": "2020-05-01T14:40:25.106Z",
+    "session": 16,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 15,
+  "fields": {
+    "time": "2020-05-01T14:40:25.206Z",
+    "session": 16,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 16,
+  "fields": {
+    "time": "2020-05-01T14:40:36.449Z",
+    "session": 16,
+    "_visited_element": 18,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 17,
+  "fields": {
+    "time": "2020-05-01T14:42:18.063Z",
+    "session": 17,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 18,
+  "fields": {
+    "time": "2020-05-01T14:42:18.237Z",
+    "session": 17,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 19,
+  "fields": {
+    "time": "2020-05-01T14:42:29.066Z",
+    "session": 17,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 20,
+  "fields": {
+    "time": "2020-05-01T14:42:39.909Z",
+    "session": 17,
+    "_visited_element": 22,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 21,
+  "fields": {
+    "time": "2020-05-01T14:42:40.167Z",
+    "session": 17,
+    "_visited_element": 24,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 22,
+  "fields": {
+    "time": "2020-05-01T14:42:43.140Z",
+    "session": 17,
+    "_visited_element": 25,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 23,
+  "fields": {
+    "time": "2020-05-01T14:43:03.922Z",
+    "session": 17,
+    "_visited_element": 28,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 24,
+  "fields": {
+    "time": "2020-05-01T14:43:04.358Z",
+    "session": 17,
+    "_visited_element": 18,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 25,
+  "fields": {
+    "time": "2020-05-01T14:48:55.192Z",
+    "session": 20,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 26,
+  "fields": {
+    "time": "2020-05-01T14:48:55.345Z",
+    "session": 20,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 27,
+  "fields": {
+    "time": "2020-05-01T14:49:09.824Z",
+    "session": 20,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 28,
+  "fields": {
+    "time": "2020-05-01T14:49:10.031Z",
+    "session": 20,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 29,
+  "fields": {
+    "time": "2020-05-01T14:49:18.164Z",
+    "session": 20,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 30,
+  "fields": {
+    "time": "2020-05-01T14:49:22.481Z",
+    "session": 20,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 31,
+  "fields": {
+    "time": "2020-05-01T14:53:20.360Z",
+    "session": 22,
+    "_visited_element": null,
+    "description": "Registered as user: 0641838622"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 32,
+  "fields": {
+    "time": "2020-05-01T14:53:31.776Z",
+    "session": 22,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 33,
+  "fields": {
+    "time": "2020-05-01T14:53:31.876Z",
+    "session": 22,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 34,
+  "fields": {
+    "time": "2020-05-01T14:53:44.668Z",
+    "session": 22,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 35,
+  "fields": {
+    "time": "2020-05-01T14:53:44.888Z",
+    "session": 22,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 36,
+  "fields": {
+    "time": "2020-05-01T14:53:50.547Z",
+    "session": 22,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 37,
+  "fields": {
+    "time": "2020-05-01T14:53:51.886Z",
+    "session": 22,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 38,
+  "fields": {
+    "time": "2020-05-01T14:54:16.433Z",
+    "session": 23,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 39,
+  "fields": {
+    "time": "2020-05-01T14:54:16.585Z",
+    "session": 23,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 40,
+  "fields": {
+    "time": "2020-05-01T14:54:27.199Z",
+    "session": 23,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 41,
+  "fields": {
+    "time": "2020-05-01T14:54:27.502Z",
+    "session": 23,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 42,
+  "fields": {
+    "time": "2020-05-01T14:54:33.058Z",
+    "session": 23,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 43,
+  "fields": {
+    "time": "2020-05-01T14:54:37.087Z",
+    "session": 23,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 44,
+  "fields": {
+    "time": "2020-05-01T14:54:57.239Z",
+    "session": 24,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 45,
+  "fields": {
+    "time": "2020-05-01T14:54:57.339Z",
+    "session": 24,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 46,
+  "fields": {
+    "time": "2020-05-01T14:55:14.708Z",
+    "session": 24,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 47,
+  "fields": {
+    "time": "2020-05-01T14:55:14.918Z",
+    "session": 24,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 48,
+  "fields": {
+    "time": "2020-05-01T14:55:20.545Z",
+    "session": 24,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 49,
+  "fields": {
+    "time": "2020-05-01T14:55:24.607Z",
+    "session": 24,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 50,
+  "fields": {
+    "time": "2020-05-01T14:56:58.248Z",
+    "session": 25,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 51,
+  "fields": {
+    "time": "2020-05-01T14:56:58.405Z",
+    "session": 25,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 52,
+  "fields": {
+    "time": "2020-05-01T14:57:00.123Z",
+    "session": 25,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 53,
+  "fields": {
+    "time": "2020-05-01T14:57:06.015Z",
+    "session": 25,
+    "_visited_element": 22,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 54,
+  "fields": {
+    "time": "2020-05-01T14:57:06.426Z",
+    "session": 25,
+    "_visited_element": 24,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 55,
+  "fields": {
+    "time": "2020-05-01T14:57:09.542Z",
+    "session": 25,
+    "_visited_element": 25,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 56,
+  "fields": {
+    "time": "2020-05-01T14:57:37.128Z",
+    "session": 25,
+    "_visited_element": 28,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 57,
+  "fields": {
+    "time": "2020-05-01T14:57:37.489Z",
+    "session": 25,
+    "_visited_element": 18,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 58,
+  "fields": {
+    "time": "2020-05-01T14:59:34.506Z",
+    "session": 26,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 59,
+  "fields": {
+    "time": "2020-05-01T14:59:34.605Z",
+    "session": 26,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 60,
+  "fields": {
+    "time": "2020-05-01T14:59:45.072Z",
+    "session": 26,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 61,
+  "fields": {
+    "time": "2020-05-01T14:59:45.397Z",
+    "session": 26,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 62,
+  "fields": {
+    "time": "2020-05-01T14:59:50.979Z",
+    "session": 26,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 63,
+  "fields": {
+    "time": "2020-05-01T14:59:55.028Z",
+    "session": 26,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 64,
+  "fields": {
+    "time": "2020-05-01T15:00:35.589Z",
+    "session": 26,
+    "_visited_element": 18,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 65,
+  "fields": {
+    "time": "2020-05-01T15:01:05.294Z",
+    "session": 27,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 66,
+  "fields": {
+    "time": "2020-05-01T15:01:05.449Z",
+    "session": 27,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 67,
+  "fields": {
+    "time": "2020-05-01T15:01:21.015Z",
+    "session": 27,
+    "_visited_element": 15,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 68,
+  "fields": {
+    "time": "2020-05-01T15:01:21.223Z",
+    "session": 27,
+    "_visited_element": 16,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 69,
+  "fields": {
+    "time": "2020-05-01T15:01:26.899Z",
+    "session": 27,
+    "_visited_element": 17,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 70,
+  "fields": {
+    "time": "2020-05-01T15:01:30.959Z",
+    "session": 27,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 71,
+  "fields": {
+    "time": "2020-05-01T15:02:00.052Z",
+    "session": 27,
+    "_visited_element": 18,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 72,
+  "fields": {
+    "time": "2020-05-01T15:07:13.938Z",
+    "session": 28,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 73,
+  "fields": {
+    "time": "2020-05-01T15:07:14.103Z",
+    "session": 28,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 74,
+  "fields": {
+    "time": "2020-05-01T15:07:24.471Z",
+    "session": 28,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 75,
+  "fields": {
+    "time": "2020-05-01T15:17:38.872Z",
+    "session": 29,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 76,
+  "fields": {
+    "time": "2020-05-01T15:17:39.000Z",
+    "session": 29,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 77,
+  "fields": {
+    "time": "2020-05-01T15:17:49.800Z",
+    "session": 29,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 78,
+  "fields": {
+    "time": "2020-05-01T15:18:22.249Z",
+    "session": 30,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 79,
+  "fields": {
+    "time": "2020-05-01T15:18:22.377Z",
+    "session": 30,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 80,
+  "fields": {
+    "time": "2020-05-01T15:18:33.611Z",
+    "session": 30,
+    "_visited_element": 29,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 81,
+  "fields": {
+    "time": "2020-05-01T15:18:43.930Z",
+    "session": 30,
+    "_visited_element": 31,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 82,
+  "fields": {
+    "time": "2020-05-01T15:18:52.427Z",
+    "session": 30,
+    "_visited_element": 33,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 83,
+  "fields": {
+    "time": "2020-05-01T15:19:00.045Z",
+    "session": 30,
+    "_visited_element": 14,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 84,
+  "fields": {
+    "time": "2020-05-01T15:19:48.777Z",
+    "session": 31,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 85,
+  "fields": {
+    "time": "2020-05-01T15:19:48.903Z",
+    "session": 31,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 86,
+  "fields": {
+    "time": "2020-05-01T15:20:04.416Z",
+    "session": 31,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 87,
+  "fields": {
+    "time": "2020-05-01T15:20:46.605Z",
+    "session": 32,
+    "_visited_element": null,
+    "description": "Registered as user: 0611153096"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 88,
+  "fields": {
+    "time": "2020-05-01T15:20:52.659Z",
+    "session": 32,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 89,
+  "fields": {
+    "time": "2020-05-01T15:20:52.790Z",
+    "session": 32,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 90,
+  "fields": {
+    "time": "2020-05-01T15:21:16.570Z",
+    "session": 33,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 91,
+  "fields": {
+    "time": "2020-05-01T15:21:16.704Z",
+    "session": 33,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 92,
+  "fields": {
+    "time": "2020-05-01T15:21:26.314Z",
+    "session": 33,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 93,
+  "fields": {
+    "time": "2020-05-01T15:21:52.045Z",
+    "session": 34,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 94,
+  "fields": {
+    "time": "2020-05-01T15:21:52.178Z",
+    "session": 34,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 95,
+  "fields": {
+    "time": "2020-05-01T15:22:04.312Z",
+    "session": 34,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 96,
+  "fields": {
+    "time": "2020-05-01T15:22:14.159Z",
+    "session": 34,
+    "_visited_element": 23,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 97,
+  "fields": {
+    "time": "2020-05-01T15:22:14.421Z",
+    "session": 34,
+    "_visited_element": 24,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 98,
+  "fields": {
+    "time": "2020-05-01T15:22:17.054Z",
+    "session": 34,
+    "_visited_element": 25,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 99,
+  "fields": {
+    "time": "2020-05-01T15:22:45.365Z",
+    "session": 35,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 100,
+  "fields": {
+    "time": "2020-05-01T15:22:45.525Z",
+    "session": 35,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 101,
+  "fields": {
+    "time": "2020-05-01T15:22:54.259Z",
+    "session": 35,
+    "_visited_element": 29,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 102,
+  "fields": {
+    "time": "2020-05-01T15:23:17.302Z",
+    "session": 36,
+    "_visited_element": null,
+    "description": "Language selected, Nederlands"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 103,
+  "fields": {
+    "time": "2020-05-01T15:23:17.398Z",
+    "session": 36,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 104,
+  "fields": {
+    "time": "2020-05-01T15:23:30.199Z",
+    "session": 36,
+    "_visited_element": 19,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 105,
+  "fields": {
+    "time": "2020-05-01T15:26:32.955Z",
+    "session": 37,
+    "_visited_element": null,
+    "description": "Registered as user: 0651809898"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 106,
+  "fields": {
+    "time": "2020-05-01T15:26:39.865Z",
+    "session": 37,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 107,
+  "fields": {
+    "time": "2020-05-01T15:26:40.002Z",
+    "session": 37,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 108,
+  "fields": {
+    "time": "2020-05-01T15:26:50.276Z",
+    "session": 37,
+    "_visited_element": 29,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 109,
+  "fields": {
+    "time": "2020-05-01T15:27:25.147Z",
+    "session": 37,
+    "_visited_element": 31,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 138,
+  "fields": {
+    "time": "2020-05-05T23:00:39.501Z",
+    "session": 71,
+    "_visited_element": null,
+    "description": "Registered as user: 00233244944304"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 139,
+  "fields": {
+    "time": "2020-05-05T23:00:53.524Z",
+    "session": 71,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 140,
+  "fields": {
+    "time": "2020-05-05T23:00:53.669Z",
+    "session": 71,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 141,
+  "fields": {
+    "time": "2020-05-05T23:01:45.917Z",
+    "session": 71,
+    "_visited_element": 29,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 142,
+  "fields": {
+    "time": "2020-05-05T23:02:26.070Z",
+    "session": 71,
+    "_visited_element": 31,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 143,
+  "fields": {
+    "time": "2020-05-05T23:04:18.326Z",
+    "session": 72,
+    "_visited_element": null,
+    "description": "Language selected, English"
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 144,
+  "fields": {
+    "time": "2020-05-05T23:04:18.427Z",
+    "session": 72,
+    "_visited_element": 8,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 145,
+  "fields": {
+    "time": "2020-05-05T23:04:31.676Z",
+    "session": 72,
+    "_visited_element": 29,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 146,
+  "fields": {
+    "time": "2020-05-05T23:04:41.484Z",
+    "session": 72,
+    "_visited_element": 31,
+    "description": null
+  }
+},
+{
+  "model": "service_development.callsessionstep",
+  "pk": 147,
+  "fields": {
+    "time": "2020-05-05T23:04:45.813Z",
+    "session": 72,
+    "_visited_element": 33,
+    "description": null
+  }
+},
+{
+  "model": "service_development.choice",
+  "pk": 2,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 8,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 19,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 25,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 29,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 31,
+  "fields": {}
+},
+{
+  "model": "service_development.choice",
+  "pk": 33,
+  "fields": {}
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 3,
+  "fields": {
+    "parent": 2,
+    "_redirect": 5
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 4,
+  "fields": {
+    "parent": 2,
+    "_redirect": 7
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 11,
+  "fields": {
+    "parent": 8,
+    "_redirect": 29
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 12,
+  "fields": {
+    "parent": 8,
+    "_redirect": 19
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 20,
+  "fields": {
+    "parent": 19,
+    "_redirect": 22
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 21,
+  "fields": {
+    "parent": 19,
+    "_redirect": 23
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 26,
+  "fields": {
+    "parent": 25,
+    "_redirect": 28
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 27,
+  "fields": {
+    "parent": 25,
+    "_redirect": 24
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 30,
+  "fields": {
+    "parent": 29,
+    "_redirect": 31
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 32,
+  "fields": {
+    "parent": 31,
+    "_redirect": 33
+  }
+},
+{
+  "model": "service_development.choiceoption",
+  "pk": 34,
+  "fields": {
+    "parent": 33,
+    "_redirect": 14
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 5,
+  "fields": {
+    "final_element": false,
+    "_redirect": 6
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 6,
+  "fields": {
+    "final_element": true,
+    "_redirect": null
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 7,
+  "fields": {
+    "final_element": false,
+    "_redirect": 6
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 15,
+  "fields": {
+    "final_element": false,
+    "_redirect": 16
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 16,
+  "fields": {
+    "final_element": false,
+    "_redirect": 17
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 17,
+  "fields": {
+    "final_element": false,
+    "_redirect": 14
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 18,
+  "fields": {
+    "final_element": true,
+    "_redirect": null
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 22,
+  "fields": {
+    "final_element": false,
+    "_redirect": 24
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 23,
+  "fields": {
+    "final_element": false,
+    "_redirect": 24
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 24,
+  "fields": {
+    "final_element": false,
+    "_redirect": 25
+  }
+},
+{
+  "model": "service_development.messagepresentation",
+  "pk": 28,
+  "fields": {
+    "final_element": false,
+    "_redirect": 18
+  }
+},
+{
+  "model": "service_development.userinputcategory",
+  "pk": 1,
+  "fields": {
+    "name": "buyer address",
+    "description": "spoken address of the buyer",
+    "service": 2
+  }
+},
+{
+  "model": "service_development.spokenuserinput",
+  "pk": 1,
+  "fields": {
+    "audio": "uploads/recording_26_14.wav",
+    "time": "2020-05-01T15:00:35.510Z",
+    "session": 26,
+    "category": 1,
+    "description": null
+  }
+},
+{
+  "model": "service_development.spokenuserinput",
+  "pk": 2,
+  "fields": {
+    "audio": "uploads/recording_27_14.wav",
+    "time": "2020-05-01T15:02:00.009Z",
+    "session": 27,
+    "category": 1,
+    "description": null
+  }
+},
+{
+  "model": "service_development.record",
+  "pk": 14,
+  "fields": {
+    "not_heard_voice_label": 27,
+    "repeat_recording_to_caller": true,
+    "repeat_voice_label": 33,
+    "ask_confirmation": true,
+    "ask_confirmation_voice_label": 34,
+    "final_voice_label": 35,
+    "input_category": 1,
+    "max_time_input": 180,
+    "_redirect": 18
+  }
+}
+]

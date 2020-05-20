@@ -146,9 +146,9 @@ class CallSessionInline(admin.TabularInline):
     max_num = 0
 
 class CallSessionAdmin(admin.ModelAdmin):
-    list_display = ('start','user','service','caller_id','language')
-    list_filter = ('service','user','caller_id')
-    fieldsets = [(_('General'), {'fields' : ['service', 'user','caller_id','start','end','language']})]
+    list_display = ('start','user','service','caller_id','language','order_placed')
+    list_filter = ('service','user','caller_id','order_placed')
+    fieldsets = [(_('General'), {'fields' : ['service', 'user','caller_id','start','end','language', 'order_placed']})]
     readonly_fields = ('service','user','caller_id','start','end','language') 
     inlines = [CallSessionInline]
     can_delete = True
@@ -176,7 +176,7 @@ class SpokenUserInputAdmin(admin.ModelAdmin):
     list_display = ('__str__','category','description','audio_file_player')
     list_filter = ('category',)
     fieldsets = [(_('General'), {'fields' : ['audio', 'audio_file_player', 'session','category','description']})]
-    readonly_fields = ('audio','session','category', 'audio_file_player') 
+    readonly_fields = ('audio','category', 'audio_file_player') 
     can_delete = True
 
     def has_add_permission(self, request):
@@ -196,3 +196,4 @@ admin.site.register(VoiceLabel, VoiceLabelAdmin)
 admin.site.register(SpokenUserInput, SpokenUserInputAdmin)
 admin.site.register(UserInputCategory)
 admin.site.register(Record)
+admin.site.register(OrderList)
