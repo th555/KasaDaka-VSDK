@@ -5,12 +5,14 @@ delete the chosen order after confirmation
 
 {% block content%}
 <form  id="deletedone">
+  <block>
 		<prompt>
 			<audio src="{{ order_number_voice_label }}"/>
       <audio src="{{ number }}" />
       <audio src="{{ hasbeenremoved }}" />
     </prompt>
     <goto next="{{redirect_url}}"/>
+  </block>
 </form>
 {% endblock %}
 
