@@ -252,7 +252,7 @@
   "pk": 33,
   "fields": {
     "name": "dummy part 1",
-    "description": "dummy confirmation before address repeat"
+    "description": "confirmation before order repeat"
   }
 },
 {
@@ -260,7 +260,7 @@
   "pk": 34,
   "fields": {
     "name": "dummy 2 confirm",
-    "description": "dummy after address, and ask for confirm or repeat"
+    "description": "after order, and ask for confirm or repeat"
   }
 },
 {
@@ -1180,7 +1180,7 @@
   "fields": {
     "parent": 32,
     "language": 2,
-    "audio": "6_buyer_address.mp3.wav"
+    "audio": "en_buyer_record_order.mp3.wav"
   }
 },
 {
@@ -1189,7 +1189,7 @@
   "fields": {
     "parent": 32,
     "language": 1,
-    "audio": "6_buyer_address.mp3_ee6bMXB.wav"
+    "audio": "nl_buyer_record_order.mp3.wav"
   }
 },
 {
@@ -1198,7 +1198,7 @@
   "fields": {
     "parent": 33,
     "language": 2,
-    "audio": "dummy_1_english.wav"
+    "audio": "en_buyer_message_is.mp3.wav"
   }
 },
 {
@@ -1207,7 +1207,7 @@
   "fields": {
     "parent": 33,
     "language": 1,
-    "audio": "dummy_1_dutch.wav"
+    "audio": "nl_buyer_message_is.mp3.wav"
   }
 },
 {
@@ -1216,7 +1216,7 @@
   "fields": {
     "parent": 34,
     "language": 2,
-    "audio": "dummy_2_confirm_english.wav"
+    "audio": "en_buyer_confirm.mp3.wav"
   }
 },
 {
@@ -1225,7 +1225,7 @@
   "fields": {
     "parent": 34,
     "language": 1,
-    "audio": "dummy_2_confirm_dutch.wav"
+    "audio": "nl_buyer_confirm.mp3.wav"
   }
 },
 {
@@ -1540,7 +1540,7 @@
   "fields": {
     "service": 2,
     "creation_date": "2020-04-27T08:59:17.815Z",
-    "modification_date": "2020-05-01T15:22:06.694Z",
+    "modification_date": "2020-05-20T19:38:04.998Z",
     "name": "Welcome",
     "description": "Welcome to mali milk use case. Press 1 if you are a customer and press 2 if you are a distributor",
     "voice_label": 26
@@ -1552,7 +1552,7 @@
   "fields": {
     "service": 2,
     "creation_date": "2020-04-27T09:03:30.977Z",
-    "modification_date": "2020-05-01T15:22:06.698Z",
+    "modification_date": "2020-05-20T19:37:22.107Z",
     "name": "customer",
     "description": "1",
     "voice_label": 27
@@ -1564,7 +1564,7 @@
   "fields": {
     "service": 2,
     "creation_date": "2020-04-27T09:03:30.981Z",
-    "modification_date": "2020-05-01T15:22:06.701Z",
+    "modification_date": "2020-05-20T19:38:05.003Z",
     "name": "distributor",
     "description": "2",
     "voice_label": 27
@@ -1576,7 +1576,7 @@
   "fields": {
     "service": 2,
     "creation_date": "2020-04-27T09:07:20.588Z",
-    "modification_date": "2020-05-01T14:58:33.358Z",
+    "modification_date": "2020-05-20T19:34:48.604Z",
     "name": "record buyer address",
     "description": "Zeg nu hardop het adres waarop je de melk wil laten bezorgen",
     "voice_label": 32
@@ -1980,8 +1980,8 @@
     "name": "ordertest",
     "description": "testing",
     "creation_date": "2020-05-20T11:35:34.105Z",
-    "modification_date": "2020-05-20T13:12:11.278Z",
-    "active": true,
+    "modification_date": "2020-05-20T19:40:13.117Z",
+    "active": false,
     "_start_element": 38,
     "registration": "disabled",
     "registration_language": true,
@@ -2587,7 +2587,7 @@
     "caller_id": "00233244944304",
     "service": 2,
     "_language": 2,
-    "order_placed": false
+    "order_placed": true
   }
 },
 {
@@ -4494,7 +4494,7 @@
   "pk": 11,
   "fields": {
     "parent": 8,
-    "_redirect": 29
+    "_redirect": 14
   }
 },
 {
@@ -4502,7 +4502,7 @@
   "pk": 12,
   "fields": {
     "parent": 8,
-    "_redirect": 19
+    "_redirect": 38
   }
 },
 {
