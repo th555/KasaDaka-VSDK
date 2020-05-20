@@ -43,6 +43,8 @@ def order_list(request, element_id, session_id):
     elif request.method == "POST" and 'deletethis' in request.POST:
         # Actually perform the delete here
         delete_number = int(request.POST["deletethis"][0])
+        order_sessions[delete_number-1].order_placed = False
+        order_sessions[delete_number-1].save()
 
         context = {
             'order_number_voice_label': order_list_element.order_number_label.get_voice_fragment_url(language),
