@@ -1,0 +1,44 @@
+{% extends "base.xml" %}
+{#
+delete the chosen order after confirmation
+#}
+
+{% block content%}
+<form  id="confirmdelete">
+	<field name="choice">
+		<prompt>
+            {#you have chosen order number#}
+			<audio src="{{ order_chosen_label }}"/>
+            {# number #}
+            <audio src="{{ number }}" />
+            {# recorded order #}
+            <audio src="{{ chosen_order_audio }}" />
+            {#press 1 to confirm, press 2 to go back#}
+            <audio src="{{ order_confirm_label }}" />
+        </prompt>
+
+{# all possible inputs from the user #}
+<grammar xml:lang="en-US" root = "MYRULE" mode="dtmf">
+      <rule id="MYRULE" scope = "public">
+        <one-of>
+            <item>1</item>
+            <item>2</item>
+        </one-of>
+       </rule>
+</grammar>
+
+{# when there has been input, redirect the user to the corresponding URL #}
+<filled>
+      <if cond="choice == '1'">
+      <assign name="deletethis" expr="{{choice_number}}" />
+      <submit next="{{ redirect_url_POST }}" method="post" namelist="deletethis"/>
+      <elseif cond="choice == '2'" />
+      <goto next="{{ redirect_url_retry }}"/>
+    <else/>
+    </if>
+  </filled>
+
+</field>
+</form>
+{% endblock %}
+

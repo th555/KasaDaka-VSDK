@@ -23,13 +23,45 @@ class OrderList(VoiceServiceElement):
     )
 
     order_number_label = models.ForeignKey(
-            VoiceLabel,
-            verbose_name = _('Order number label'),
-            help_text = _('The label that is played before playing each order number, i.e. [Order number] one: some order'),
-            on_delete = models.SET_NULL,
-            null = True,
-            blank = True,
-            )
+        VoiceLabel,
+        verbose_name = _('Order number label'),
+        help_text = _('The label that is played before playing each order number, i.e. [Order number] one: some order'),
+        on_delete = models.SET_NULL,
+        null = True,
+        blank = True,
+    )
+    
+    order_chosen_label = models.ForeignKey(
+        VoiceLabel,
+        verbose_name = _('Order chosen label'),
+        help_text = _('The label played before asking to confirm the choice, e.g. "you have chosen to fulfill order number"...'),
+        on_delete = models.SET_NULL,
+        null = True,
+        blank = True,
+        related_name='orderchosenlabel'
+    )
+
+    order_confirm_label = models.ForeignKey(
+        VoiceLabel,
+        verbose_name = _('Order confirm label'),
+        help_text = _('The label asking to confirm the choice, e.g. "Press 1 to confirm, press 2 to go back"...'),
+        on_delete = models.SET_NULL,
+        null = True,
+        blank = True,
+        related_name='orderconfirmlabel'
+    )
+
+    order_delete_label = models.ForeignKey(
+        VoiceLabel,
+        verbose_name = _('Order delete label'),
+        help_text = _('The label played after successful delete e.g. order number 1 [has been removed from the database]...'),
+        on_delete = models.SET_NULL,
+        null = True,
+        blank = True,
+        related_name='orderdeletelabel'
+    )
+
+    
 
     final_element = models.BooleanField(_('This element will terminate the call'),default = False)
     _redirect = models.ForeignKey(
@@ -40,6 +72,7 @@ class OrderList(VoiceServiceElement):
             related_name='%(app_label)s_%(class)s_related',
             verbose_name=_('Redirect element'),
             help_text = _("The element to redirect to after the message has been played."))
+
 
     class Meta:
         verbose_name = _('Order list')
