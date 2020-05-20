@@ -1,6 +1,6 @@
 from django.shortcuts import render, get_object_or_404, get_list_or_404, redirect
 
-from ..models import SaveOrder
+from ..models import SaveOrder, CallSession
 
 def save_order_get_redirect_url(save_order_element,session):
     if not save_order_element.final_element:
